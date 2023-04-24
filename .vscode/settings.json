@@ -1,0 +1,20 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/mechine/neo_ws/install/rpi_bot/lib/python3.10/site-packages",
+        "/home/mechine/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages",
+        "",
+        "/home/mechine/facenet/src",
+        "/home/mechine/facenet/contributed"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/mechine/neo_ws/install/rpi_bot/lib/python3.10/site-packages",
+        "/home/mechine/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages",
+        "",
+        "/home/mechine/facenet/src",
+        "/home/mechine/facenet/contributed"
+    ]
+}
